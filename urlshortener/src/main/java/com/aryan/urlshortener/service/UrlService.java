@@ -56,7 +56,7 @@ public class UrlService {
         return UrlResponse.builder()
                 .originalUrl(url.getOriginalUrl())
                 .shortCode(shortCode)
-                .shortUrl("http://localhost:8080/api/urls/redirect/" + shortCode)
+                .shortUrl("http://52.66.241.120:8080/api/urls/redirect/" + shortCode)
                 .clickCount(0L)
                 .build();
     }
@@ -81,7 +81,7 @@ public class UrlService {
         return UrlResponse.builder()
                 .originalUrl(url.getOriginalUrl())
                 .shortCode(url.getShortCode())
-                .shortUrl("http://localhost:8080/api/urls/redirect/" + url.getShortCode())
+                .shortUrl("http://52.66.241.120:8080/api/urls/redirect/" + url.getShortCode())
                 .clickCount(url.getClickCount())
                 .build();
     }
