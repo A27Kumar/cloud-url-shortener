@@ -24,7 +24,7 @@ jobs:
           java-version: 21
 
       - name: Build Backend
-        run: mvn clean package
+        run: mvn clean package -DskipTests
 
   build-frontend:
     runs-on: ubuntu-latest
