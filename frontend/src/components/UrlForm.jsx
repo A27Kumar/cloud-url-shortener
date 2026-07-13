@@ -52,7 +52,7 @@ export default function UrlForm() {
       }}
     >
       <Typography variant="h4" align="center" gutterBottom>
-  Cloud URL Shortener by Aryan k
+  Ssipmt collage
 </Typography>
 
 <Typography
