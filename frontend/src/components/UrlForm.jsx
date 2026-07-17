@@ -52,7 +52,7 @@ export default function UrlForm() {
       }}
     >
       <Typography variant="h4" align="center" gutterBottom>
-  Ssipmt collage
+  URL Shortner by Aryan K
 </Typography>
 
 <Typography
