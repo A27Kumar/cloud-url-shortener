@@ -52,7 +52,7 @@ export default function UrlForm() {
       }}
     >
       <Typography variant="h4" align="center" gutterBottom>
-  URL Shortner by Aryan K
+  vt collage project
 </Typography>
 
 <Typography
