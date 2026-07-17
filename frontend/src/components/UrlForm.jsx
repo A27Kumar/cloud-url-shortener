@@ -52,7 +52,7 @@ export default function UrlForm() {
       }}
     >
       <Typography variant="h4" align="center" gutterBottom>
-  vt collage project
+  collage vt project 
 </Typography>
 
 <Typography
